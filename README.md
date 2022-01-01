@@ -1,4 +1,3 @@
-
 ### Hi there 👋, I'm soriful
 #### Web Developer
 
@@ -27,8 +26,6 @@ Skills: Node.js/ REACT / JS / HTML / CSS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sorifulalam&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sorifulalam)  
-
-![GitHub metrics](https://metrics.lecoq.io/sorifulalam)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sorifulalam)  
 
