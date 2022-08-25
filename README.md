@@ -31,7 +31,7 @@ Hi, I am Md. Soriful Alam  Working as a Professional Web Developer. I have exper
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sorifulalam&show_icons=true&count_private=true)  
 
-  
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sorifulalam)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sorifulalam)  
 
