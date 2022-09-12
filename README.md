@@ -13,12 +13,12 @@ Hi, I am Md. Soriful Alam  Working as a Professional Web Developer. I have exper
  ✅ woocommerce <br>
 
  -🔭 I’m currently working on Developing <br>
- -🌱 I’m currently learning JavaScript 
- -👯 I’m looking to collaborate on github 
- -💬 Ask me about Web Development 
- -📫 How to reach me: Social Media 
- -😄 Pronouns: Shetu 
- -⚡ Fun fact: polite 
+ -🌱 I’m currently learning JavaScript <br>
+ -👯 I’m looking to collaborate on github <br>
+ -💬 Ask me about Web Development <br>
+ -📫 How to reach me: Social Media <br>
+ -😄 Pronouns: Shetu <br>
+ -⚡ Fun fact: polite <br>
 
 # CONNECT ME:
 
