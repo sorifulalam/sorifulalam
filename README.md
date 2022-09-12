@@ -4,21 +4,21 @@
 Hi, I am Md. Soriful Alam  Working as a Professional Web Developer. I have experience with responsive website development Background includes substantial experience with full-stack programming with HTML, CSS, Js, and Node.js, as well as good knowledge of back-end web development with WordPress and WooCommerce. Excellent troubleshooting and analytical skills, well-organized, self-motivated, able to work well with minimal supervision, meet deadlines and manage many projects, and adapt to a variety of teams and projects, skilled communicator with exceptional interpersonal skills.
 
 ## Skills  & Experience💪: <br>
-✅ HTML <br>
-✅ CSS <br>
-✅ JS <br>
-✅ REACT <br>
-✅ Node.js <br>
-✅ Wordpress <br>
-✅ woocommerce <br>
+ ✅ HTML <br>
+ ✅ CSS <br>
+ ✅ JS <br>
+ ✅ REACT <br>
+ ✅ Node.js <br>
+ ✅ Wordpress <br>
+ ✅ woocommerce <br>
 
- 🔭 I’m currently working on Developing 
- 🌱 I’m currently learning JavaScript 
- 👯 I’m looking to collaborate on github 
- 💬 Ask me about Web Development 
- 📫 How to reach me: Social Media 
- 😄 Pronouns: Shetu 
- ⚡ Fun fact: polite 
+ -🔭 I’m currently working on Developing 
+ -🌱 I’m currently learning JavaScript 
+ -👯 I’m looking to collaborate on github 
+ -💬 Ask me about Web Development 
+ -📫 How to reach me: Social Media 
+ -😄 Pronouns: Shetu 
+ -⚡ Fun fact: polite 
 
 # CONNECT ME:
 
